@@ -4,7 +4,7 @@ Design and evaluation of content-based hashtag recommendation models for Twitter
 
 ## Software Architecture Diagram
 
-![](images/final_final.jpg?raw=true)
+![](images/images_final_final.jpg?raw=true)
 
 ## Description of source code
 
