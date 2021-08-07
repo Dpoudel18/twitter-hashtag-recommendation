@@ -11,12 +11,12 @@ Design and evaluation of content-based hashtag recommendation models for Twitter
 ```
 tweet_api.py - API connection using valid keys and tokens.
 extract_keywords - Pre-processing step.
-hashtag_frequency.py - Implementation of TF-IDF model.
+model.py - Implementation of Hashtag Frequency model.
 naive_bayes.py - Implementation of Naive Bayes model.
 cosine_similarity.py - Implementation of Cosine Similarity model.
 streamlit_web_application.py - Code for building Streamlit web application.
 evaluation.py - Algorithm to calculate all 5 evaluation metrics.
-get_data.py - Connection to PostgreSQL database
+postgres_connection.py - Connection to PostgreSQL database
 ```
 
 
